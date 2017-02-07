@@ -1,0 +1,12 @@
+[package]
+name = "placeholders"
+version = "0.1.0"
+authors = ["Oliver Nightingale <oliven@amazon.com>"]
+
+[dependencies]
+image = "*"
+rocket = "0.2"
+rocket_codegen = "0.2"
+rusttype = "0.2.1"
+slog = "1.2"
+slog-term = "1.4"
